@@ -1,0 +1,15 @@
+unstructured[all-docs]
+pillow 
+lxml 
+pillow
+chromadb 
+tiktoken
+langchain 
+langchain-community 
+langchain-google-genai 
+langchain-groq
+python_dotenv
+fastapi
+langchain-openai
+pillow-avif-plugin
+langchain_chromadb
